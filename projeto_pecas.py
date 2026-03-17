@@ -14,7 +14,7 @@ def id_existe(id_peca):
             return True
 
     return False
-
+# TRABALHO DE LÓGICA
 
 def avaliar_peca(peso, cor, comprimento):
     motivos = []
